@@ -1,0 +1,33 @@
+*{
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+header {
+  background-color: orange;
+  margin-bottom: 33px;
+}
+
+.cards {
+  border:  1px solid grey;
+}
+
+.image{
+  width: 100;
+}
+
+/*is the card image width for the box.. or col?. and is it nessessart?*/
