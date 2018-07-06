@@ -1,25 +1,14 @@
 *{
-  color: black;
   font-family: "Roboto", sans-serif;
-}
-
-main {
-  padding-top: 100px;
-}
-
-main .row {
-  margin-bottom: 20px;
-}
-
-.box {
-  height: 200px;
-  text-align: center;
-  padding-top: 30px;
 }
 
 header {
   background-color: orange;
-  margin-bottom: 33px;
+  margin-bottom: 40px;
+}
+
+body {
+  color: #252525;
 }
 
 header h1 {
@@ -33,13 +22,12 @@ header p {
 
 .cards {
   border:  1px solid grey;
+  margin-bottom: 20px;
 }
 
 .image{
-  width: 100;
+  width: 100%;
 }
-
-/*is the card image width for the box.. or col?. and is it nessessart?*/
 
 .cardinfo {
   padding: 20px;
